@@ -11,4 +11,4 @@ API Link:
     https://pokeapi.co/
 
 Youtube Link:
-    
+    https://youtu.be/oSJbvb2xso4    
